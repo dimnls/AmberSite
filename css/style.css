@@ -523,7 +523,7 @@ input:focus {
 	text-shadow: 0px 0px 1px #387ef5;
 }
 .top-grid p{
-	color: #387ef5;
+	color: white;
 	line-height: 1.6em;
 	font-size: 0.9em;
 	padding: 0.6em 0em;
@@ -1458,7 +1458,7 @@ p.para1 {
 	padding-bottom: 2em;
 	}
 	.buttom {
-	background: #387ef5;
+	background: #f53d3d;
 	padding: 2em 0em 2em 0em;
 	}
 	.top-grid h3 a {
