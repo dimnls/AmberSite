@@ -59,7 +59,7 @@ body{
 	display:inline-block;
 }
 .top-nav ul li a{
-	color: #ffffff;
+	color: #f53d3d;
 	padding: 2.2em 1.2em 1.6em 1.2em;
 	display: block;
 	font-size: 0.95em;
@@ -71,11 +71,11 @@ body{
 	font-family: 'Open Sans', sans-serif;
 }
 .top-nav ul li a:hover{
-	color:#FFF;
+	color:#f53d3d;
 	background: #387ef5;
 }
 .top-nav ul li.active>a{
-	color:#FFF;
+	color:#f53d3d;
 	background: #387ef5;
 }
 .top-nav{
@@ -103,10 +103,10 @@ body{
 	font-family:trebuchet ms, arial, sans-serif;
 }
 .sign-ligin-btns ul li a.signup,.sign-ligin-btns ul li a.login{
-	color:#FFF;
+	color:#f53d3d;
 }
 .sign-ligin-btns ul li a.signup:hover,.sign-ligin-btns ul li a.login:hover{
-	background: #9B59B6;
+	background: #387ef5;
 }
 /*---End-header----*/
 
@@ -328,7 +328,7 @@ input:focus {
 	border-radius: 0.15em;
 }
 .active span:hover{
-	color:#FFF;
+	color:#387ef5;
 }
 /* Login Form */
 #signupForm {
@@ -410,13 +410,13 @@ input:focus {
 	margin-top: 5em;
 }
 .main_left h2{
-	color:#fff;
+	color:#387ef5;
 	font-size: 3em;
 	font-weight:bold;
-	text-shadow: 0px 0px 1px #FFF;
+	text-shadow: 0px 0px 1px #387ef5;
 }
 .main_left p{
-	color:#fff;
+	color:#387ef5;
 	font-size: 1em;
 	font-family: 'Open Sans', sans-serif;
 	padding: 1em 0em;
@@ -447,7 +447,7 @@ input:focus {
 	margin: 0.5em 2em 0.5em 0em;
 }
 .sign_up a{
-	color: #FFF;
+	color: #387ef5;
 	font-size: 1em;
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
@@ -471,7 +471,7 @@ input:focus {
 	display: block;
 	background: url(../images/arrow_btnh1.png) no-repeat 148px 9px;
 	padding: 0px 26px 0px 9px;
-	color: #FFF;
+	color: #387ef5;
 	font-size: 20px;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -495,7 +495,7 @@ input:focus {
 	position:relative;
 }
 .top-grid1 label{
-	background: #ECECEC;
+	background: #387ef5;
 	height: 1px;
 	display: block;
 	position: absolute;
@@ -515,15 +515,15 @@ input:focus {
 }
 .top-grid  h3 a{
 	font-size: 1.1em;
-	color: #fff;
+	color: #387ef5;
 	padding:1.5em 0 0.5em 0;
 	display: block;
 	text-transform: uppercase;
 	font-weight: 600;
-	text-shadow: 0px 0px 1px #FFF;
+	text-shadow: 0px 0px 1px #387ef5;
 }
 .top-grid p{
-	color: #fff;
+	color: #387ef5;
 	line-height: 1.6em;
 	font-size: 0.9em;
 	padding: 0.6em 0em;
@@ -543,7 +543,7 @@ input:focus {
 	font-family: 'Open Sans', sans-serif;
 }
 .copy p a{
-	color:#fff;
+	color:#387ef5;
 	font-family: 'Open Sans', sans-serif;
 }
 .copy p a:hover{
@@ -599,10 +599,10 @@ input:focus {
 }
 .section-title h3
 {
-	color: #FFF;
+	color: #387ef5;
 	font-size: 3em;
 	font-weight: bold;
-	text-shadow: 0px 0px 1px #FFF;
+	text-shadow: 0px 0px 1px #387ef5;
 	text-align: center;
 	padding: 1em 0em;
 }
@@ -624,7 +624,7 @@ input:focus {
 }
 .about-title
 {
-	color: #FFF;
+	color: #387ef5;
 	background: #387ef5;
 	font-family: 'Open Sans', sans-serif;
 	text-align: center;
@@ -681,7 +681,7 @@ input:focus {
 	-moz-border-radius: 5px;
 	border-radius: 5px;
 	z-index:0;
-	background-color:#ebebeb;
+	background-color:#387ef5;
 }
 .progress-bar.flexible > span {
 	background-color:#387ef5;
@@ -714,7 +714,7 @@ input:focus {
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	border-radius: 10px;
-	color:#fff;
+	color:#387ef5;
 	text-shadow:0 1px 0 rgba(0,0,0,.1);
 	text-align:right;
 }
@@ -1155,7 +1155,7 @@ ul.sidebar_1 li {
 	transition: all 0.3s ease-out;
 }
 .tags ul li a:hover{
-	color:#fff;
+	color:#387ef5;
 	background: #387ef5;
 }
 /* start details */
@@ -1174,7 +1174,7 @@ ul.sidebar_1 li {
 }
 p.para1 {
 	font-size: 0.8725em;
-	color: #C4C4C4;
+	color: #387ef5;
 	line-height: 1.8em;
 	font-family:'Open Sans', sans-serif;
 }
