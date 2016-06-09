@@ -447,7 +447,7 @@ input:focus {
 	margin: 0.5em 2em 0.5em 0em;
 }
 .sign_up a{
-	color: #387ef5;
+	color: white;;
 	font-size: 1em;
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
