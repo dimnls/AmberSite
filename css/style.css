@@ -41,7 +41,7 @@ body{
 }
 .content
 {
-	background: #252A2F;
+	background: #387ef5;
 }
 #page{
 	display:none;
@@ -127,7 +127,7 @@ body{
 	border-bottom: 20px solid #9B59B6;
 }
 /* Login Button */
-#loginButton{ 
+#loginButton{
     display: inline-block;
 	float: right;
 	position: relative;
@@ -164,7 +164,7 @@ body{
 	-moz-border-radius: 5px;
 	box-shadow: inset 0px -2px 2px #DFDFDF;
 }
-/* If the Login Button has been clicked */    
+/* If the Login Button has been clicked */
 
 
 /* Login Form */
@@ -232,7 +232,7 @@ fieldset#body {
 }
 #loginForm input:hover{
 	border: 1px solid #999;
-} 
+}
 .remeber{
 	margin-top:0.5em;
 }
@@ -290,7 +290,7 @@ input:focus {
 }
 
 /* Login Button */
-#signupButton { 
+#signupButton {
     display: inline-block;
 	float: right;
 	position: relative;
@@ -323,7 +323,7 @@ input:focus {
 	-moz-border-radius: 5px;
 	box-shadow: inset 0px -2px 2px #DFDFDF;
 }
-/* If the Login Button has been clicked */    
+/* If the Login Button has been clicked */
 #signupButton.active {
 	border-radius: 0.15em;
 }
@@ -431,19 +431,19 @@ input:focus {
 	width: 320px;
 	height:492px;
 	display: block;
-	background: url(../images/mobile.jpg) no-repeat;
+	background: url(../images/Amber_mocku.png) no-repeat;
 }
 .buttons
 {
 	margin-top: 2em;
 }
-.sign_up 
+.sign_up
 {
 	float:left;
 }
 .learn
 {
-	float:right;
+	float: left;
 	margin: 0.5em 2em 0.5em 0em;
 }
 .sign_up a{
@@ -456,7 +456,7 @@ input:focus {
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	-o-border-radius: 5px;
-	background: #9B59B6;
+	background: #f53d3d;
 	padding: 13px 40px;
 	border: none;
 	font-family: 'Open Sans', sans-serif;
@@ -483,7 +483,7 @@ input:focus {
 /*******/
 .buttom
 {
-	background: #9B59B6;
+	background: #f53d3d;
 	padding: 8em 0em 4em 0em;
 }
 .top-grids {
@@ -531,14 +531,14 @@ input:focus {
 }
 /*****footer*****/
 .footer {
-	background: #252A2F;
+	background: #387ef5;
 }
 .footer-left {
 	float: left;
 	padding: 1.85em 1em;
 }
 .copy p{
-	color:#9B59B6;
+	color:#fff;
 	font-size:1em;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -547,7 +547,7 @@ input:focus {
 	font-family: 'Open Sans', sans-serif;
 }
 .copy p a:hover{
-	color:#9B59B6;
+	color:#fff;
 }
 /****social_icons******/
 .social_icons {
@@ -565,7 +565,7 @@ input:focus {
 	float:left;
 	margin-left: 1.2em;
 }
-.social_icons ul .in a span 
+.social_icons ul .in a span
 {
 	background-position: 0px 0px ;
 }
@@ -573,7 +573,7 @@ input:focus {
 {
 	background-position: 0px -30px ;
 }
-.social_icons ul .pro a span 
+.social_icons ul .pro a span
 {
 	background-position: -28px 0px ;
 }
@@ -676,7 +676,7 @@ input:focus {
 .progress-bar {
 	height: 10px;
 	margin:10px 0;
-	position: relative;	
+	position: relative;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
@@ -691,7 +691,7 @@ input:focus {
 	height: 10px;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
-	border-radius: 5px;	
+	border-radius: 5px;
 	position: relative;
 	overflow: hidden;
 	z-index:0;
@@ -816,9 +816,9 @@ span.rollover:hover {
 	margin-left:4%;
 	text-align: center;
 }
-.images_1_of_4:first-child { 
-	margin-left: 0; 
-} 
+.images_1_of_4:first-child {
+	margin-left: 0;
+}
 .images_1_of_4 {
 	width: 30%;
 }
@@ -855,7 +855,7 @@ span.rollover:hover {
 		padding:7px 10px;
 		font-size:0.9em;
 		font-family:'Open Sans', sans-serif;
-		background:#49CBCD;       
+		background:#49CBCD;
         color : #fff;
       	-moz-border-radius: 3px;
 		-webkit-border-radius: 3px;
@@ -950,7 +950,7 @@ p.para{
 	display: block;
 	float:left;
 	margin:0 0 0 4.6%;
-}	
+}
 .span_1_of_3 {
 	width: 27%;
 }
@@ -1076,7 +1076,7 @@ ul.sidebar li {
 	font-size: 0.85em;
 	line-height: 1.8em;
 	font-family: 'Open Sans', sans-serif;
-	color: #5A5E68;	
+	color: #5A5E68;
 	font-weight:600;
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
@@ -1121,7 +1121,7 @@ ul.sidebar_1 li a:hover
 .link_1 .right
 {
 	float:right;
-} 
+}
 .tags {
 	padding: 2.5em 0em;
 }
@@ -1129,7 +1129,7 @@ ul.sidebar_1 li {
 	list-style-image: url(../images/icon_2.png);
 	vertical-align: bottom;
 }
-.tags ul li 
+.tags ul li
 {
 	padding: 0.6em;
 	float:left;
@@ -1458,7 +1458,7 @@ p.para1 {
 	padding-bottom: 2em;
 	}
 	.buttom {
-	background: #9B59B6;
+	background: #f53d3d;
 	padding: 2em 0em 2em 0em;
 	}
 	.top-grid h3 a {
@@ -1521,7 +1521,7 @@ p.para1 {
 	}
 	.arrow_btn {
 	background: url(../images/arrow_btnh1.png) no-repeat 194px 6px;
-	}	
+	}
 	.arrow_btn:hover {
 	background: url(../images/arrow_btn1.png) no-repeat 194px 6px;
 	}
