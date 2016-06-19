@@ -1244,6 +1244,7 @@ p.para1 {
 	}
 	.main_left p {
 	font-size: 0.95em;
+	text-align: left;
 	}
 	.arrow_btn {
 	background: url(../images/arrow_btnh1.png) no-repeat 130px 6px;
@@ -1313,6 +1314,9 @@ p.para1 {
 	margin-top: 4em;
 	text-align: center;
 	}
+	.main_left p {
+		text-align: center;
+	}
 	.main_right {
 	float: none;
 	width: 100%;
@@ -1324,11 +1328,11 @@ p.para1 {
 	margin: 0 auto;
 	}
 	.buttons .sign_up {
-	display: none;
+	float: none;
 	}
 	.learn {
 	float: none;
-	margin: 2em 0em;
+	margin: 0.5em 0em 2em 0em;
 	}
 	.arrow_btn:hover {
 	background: url(../images/arrow_btn1.png) no-repeat 360px 6px;
@@ -1395,6 +1399,9 @@ p.para1 {
 	.main {
 	margin-top: 3em;
 	}
+	.main_left p {
+		text-align: center;
+	}
 	.arrow_btn {
 	background: url(../images/arrow_btnh1.png) no-repeat 340px 6px;
 	}
@@ -1413,6 +1420,10 @@ p.para1 {
 	}
 	.buttons {
 	margin-top: 0em;
+	}
+
+	.buttons .sign_up {
+	float: none;
 	}
 }
 @media only screen and (max-width:480px)
@@ -1434,13 +1445,16 @@ p.para1 {
 	}
 	.main_left p {
 	font-size: 0.8em;
+	text-align: center;
 	}
 	.main_left h2 {
 	font-size: 1.5em;
 	}
 	.learn {
-	float: none;
+	float: left;
 	margin: 1em 0em;
+	margin-left: auto;
+	margin-right: auto;
 	}
 	.main_right span {
 	width: 230px;
@@ -1530,6 +1544,9 @@ p.para1 {
 	}
 	.main {
 	margin-top: 0em;
+	}
+	.main_left p {
+		text-align: center;
 	}
 	.main_right span {
 	width: 160px;
