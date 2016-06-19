@@ -1338,7 +1338,7 @@ p.para1 {
 	}
 	.top-grid:nth-child(1)
 	{
-		display:none;
+		/*display:none;*/
 	}
 	.top-grid {
 	width: 49%;
